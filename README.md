@@ -19,6 +19,8 @@ This repository contains apps that can be used with as a starting point for some
 
 The shopping theme is used throughout the app.
 
+https://proud-pebble-01aa46503.azurestaticapps.net
+
 ## Contents
 
 The apps written in the following JavaScript frameworks/libraries:
